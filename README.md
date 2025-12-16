@@ -76,4 +76,4 @@ Sistem menggunakan logika **Active LOW** (Umum pada sensor modul China):
 5.  **Run:** Tekan tombol Play atau cabut-colok USB untuk memulai.
 
 ---
-*Dibuat untuk tugas Mata Kuliah Organisasi & Arsitektur Komputer.*
+*Dibuat untuk Tugas Mata Kuliah Organisasi & Arsitektur Komputer.*
